@@ -1,4 +1,8 @@
 
+/*
+*   author: Arias David
+*   tema: Programacion funcional y funciones de orden superior
+ */
 import view.Frame;
 
 import javax.swing.*;
